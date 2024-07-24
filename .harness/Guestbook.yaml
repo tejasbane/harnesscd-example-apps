@@ -1,5 +1,5 @@
 pipeline:
-  name: Tejas Demo CD
+  name: Deploy Harness Demo
   identifier: guestbook_rolling_pipeline
   projectIdentifier: harness_Demo
   orgIdentifier: default
