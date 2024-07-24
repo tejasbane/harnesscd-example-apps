@@ -6,7 +6,7 @@ pipeline:
   tags: {}
   stages:
     - stage:
-        name: deploy_guestbook
+        name: Deploy to Prod
         identifier: Deploy
         description: ""
         type: Deployment
